@@ -46,11 +46,11 @@ define("TOKEN","213");
 //数据库配置文件
 //请确保把当前目录下的 pic.sql 导入到你的数据库
 $database = array(
-        'dbname' => 'YourDbName',//你的数据库名字
+        'dbname' => 'WorldOfRain',//你的数据库名字
         'host' => 'localhost',
         'port' => 3306,
-        'user' => 'YourDbUser',//你的数据库用户名
-        'pass' => 'YourDbPass',//你的数据库用户名对应的密码
+        'user' => 'hkgxd',//你的数据库用户名
+        'pass' => 'lj13408383753jl+',//你的数据库用户名对应的密码
     );
     
 
